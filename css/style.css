@@ -14,3 +14,7 @@ hr {
 h1, h3 {
   color: #05004e;
 }
+
+.circular {
+  border-radius: 100%;
+}
