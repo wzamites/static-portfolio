@@ -1,5 +1,4 @@
 # static-portfolio
-non-react portfolio website
+portfolio
 
-This is my static portfolio website made in conjunction with a full-stack Udemy bootcamp.
-This is separate from the portfolio made with React.
+This is my static portfolio website made in conjunction with a full-stack bootcamp.
