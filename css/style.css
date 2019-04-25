@@ -15,6 +15,16 @@ h1, h3 {
   color: #05004e;
 }
 
+.headshot {
+  position: absolute;
+    right:50px;
+    top:10px;
+}
+
 .circular {
   border-radius: 100%;
+}
+
+p {
+  margin: 4px;
 }
