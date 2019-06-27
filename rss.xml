@@ -12,7 +12,7 @@
     <description>Description of podcast episode content</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://drive.google.com/file/d/1zqbVm1KRNNRnNL23YYHFz8WYOJfL0CA_/view?usp=sharing" type="audio/mpeg" length="42113897"></enclosure>
-    <pubDate>Wed, 20 Sep 06 15:00:00 -0400</pubDate>
+    <pubDate>Wed, 20 Sep 2006 15:00:00 -0400</pubDate>
     <guid>http://example.com/podcast-1</guid>
 </item>
 <!--END REPEAT-->
