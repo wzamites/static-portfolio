@@ -4,29 +4,15 @@
 <title>Classic Kidd Chris Show</title>
 <link>wzamit.es/rss.xml<link>
 <language>en-us</language>
-<itunes:subtitle>Kidd Chris Philly Years</itunes:subtitle>
-<itunes:author>The Loyal Philly Fans</itunes:author>
-<itunes:summary>Description of podcast.</itunes:summary>
 <description>Description of podcast.</description>
-<itunes:owner>
-    <itunes:name>Owner Name</itunes:name>
-    <itunes:email>me@example.com</itunes:email>
-</itunes:owner>
-<itunes:explicit>yes</itunes:explicit>
-<itunes:image href="http://www.example.com/podcast-icon.jpg" />
-<itunes:category text="Talk"/></itunes:category>
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
     <title>Title of Podcast Episode</title>
-    <itunes:summary>Description of podcast episode content</itunes:summary>
     <description>Description of podcast episode content</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="https://drive.google.com/file/d/1zqbVm1KRNNRnNL23YYHFz8WYOJfL0CA_/view?usp=sharing" type="audio/mpeg"></enclosure>
     <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
-    <itunes:author>Author Name</itunes:author>
-    <itunes:duration>02:55:26</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
     <guid>http://example.com/podcast-1</guid>
 </item>
 <!--END REPEAT-->
